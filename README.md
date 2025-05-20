@@ -59,9 +59,9 @@ cl=classification_report(y_test,y_pred)
 print(cl)
 ```
 
-```
 
-## Output:
+
+## Output
 
 ### data
 ![image](https://github.com/user-attachments/assets/f82ca49d-d5aa-4373-8b91-35d0e11c50eb)
